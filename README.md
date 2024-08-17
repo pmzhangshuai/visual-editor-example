@@ -4,7 +4,7 @@
 
 ## 推荐的 IDE 设置
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
 ## 使用说明
 
@@ -14,7 +14,7 @@
 npm install
 ```
 
-### 在开发环境中运行预览
+### 运行预览
 
 ```sh
 npm run dev
