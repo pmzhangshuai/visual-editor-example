@@ -1,35 +1,27 @@
-# visual-editor
+# visual-editor-example
 
-This template should help get you started developing with Vue 3 in Vite.
+一个可视化编辑器的基本示例，用于演示可视化开发的原理，支持组件拖拽、页面和组件配置、查看schema、预览运行等基本功能。
 
-## Recommended IDE Setup
+## 推荐的 IDE 设置
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## 使用说明
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+### 安装依赖
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 在开发环境中运行预览
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### 构建项目
 
 ```sh
 npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
