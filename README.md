@@ -1,6 +1,7 @@
 # visual-editor-example
 
 一个可视化编辑器的基本示例，用于演示可视化开发的原理，支持组件拖拽、页面和组件配置、查看schema、预览运行等基本功能。
+![pic](screenshot.png)
 
 ## 推荐的 IDE 设置
 
